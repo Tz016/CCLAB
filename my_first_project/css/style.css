@@ -1,0 +1,52 @@
+.content{
+    font-size:40px;
+    background-color:yellow;
+    font-weight:bold;
+    border-style:solid;
+    border: width 1px;
+    border-color: darkorchid;
+    /* padding: 50px 40px 50px 50px; */
+    margin-left: 5%;
+    display:inline-block;
+}
+#subtitle{
+    background-color:blue;
+    position:fixed;
+    right: 1%;
+    top: 1%;
+    width: 800px;
+
+}
+#canvasContainer{
+    
+}
+
+#hello{
+    color:lightskyblue;
+    width: 300px;
+    margin-top:1%;
+}
+#bye{
+    color:lightblue;
+    margin-top:1%;
+}
+#bye:hover{
+    color:green
+}
+
+body{
+    background-color:rgb(189, 223, 234);
+    font-size:30px;
+    
+}
+#title{
+    font-family: 'Rubik Pixels', cursive;
+}
+h1{
+    color:blueviolet;
+    font-size:50px;
+}
+a:hover{
+    color:white;
+    transition: color 1s ease-in-out;
+}
