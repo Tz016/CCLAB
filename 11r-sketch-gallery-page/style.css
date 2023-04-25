@@ -75,6 +75,7 @@ canvas {
   position: fixed;
   right:1%;
   top:96%;
+  color:black;
   background-color: antiquewhite;
 }
 
