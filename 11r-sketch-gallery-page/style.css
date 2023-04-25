@@ -73,7 +73,7 @@ canvas {
 }
 #button{
   position: fixed;
-  left: 88%;
+  right:1%;
   top:96%;
   background-color: antiquewhite;
 }
